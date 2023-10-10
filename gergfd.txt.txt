@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 quoicoubeh
+=======
+cvnvcbnjgf
+>>>>>>> ae79d706526a1bf28c1371f3ff605cc9a4200e15
